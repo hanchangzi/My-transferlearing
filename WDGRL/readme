@@ -1,3 +1,5 @@
+pytorch 0.4.0
+torchvision 0.2.0
 实验数据为Mnist-usps
 usps的预处理方法是  (x-125.5)/125.5
 
